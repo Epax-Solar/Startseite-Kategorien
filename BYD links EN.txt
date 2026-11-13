@@ -281,8 +281,8 @@
 </style>
 
 <div class="epx-cat-section">
-  <a href="https://www.epax-solar.de/en/?manufacturers_id=19" class="epx-cat-card">
-    <img src="https://www.epax-solar.de/images/categories/Kategorien/BYD_rechts.webp" alt="BYD products">
+  <a href="https://www.epax-solar.de/de/speicher/byd-speicher/" class="epx-cat-card">
+    <img src="https://www.epax-solar.de/images/categories/Kategorien/BYD_links.webp" alt="BYD products">
 
     <div class="epx-cat-inner">
       <span class="epx-cat-topline">PV Category</span>
